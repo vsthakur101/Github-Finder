@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.fab{
+  padding: 0.4rem;
+}
+.user-card{
+  display: grid; 
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 0.5rem;
+  margin-left: 2rem;
+  margin-top:2rem;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
